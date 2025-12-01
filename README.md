@@ -149,21 +149,6 @@ Along with strong backend expertise, I also have practical experience building f
 
 ---
 
-## 📊 GitHub Activity
-
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=abhijith844&theme=tokyonight&hide_border=true)
-
-### 📈 Stats
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijith844&show_icons=true&theme=tokyonight&hide_border=true)
-
-### 🗂️ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijith844&layout=compact&theme=tokyonight&hide_border=true)
-
-### 🗺️ Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijith844&theme=tokyo-night)
-
-
 ⭐ **Open to collaborating with software firms, agencies, and startups worldwide.**  
 If you need strong backend expertise in **Node.js, NestJS, PostgreSQL, or Angular**, feel free to reach out!
 
