@@ -141,7 +141,7 @@ Along with strong backend expertise, I also have practical experience building f
 
 ## 📬 Contact Me
 
-- 📅 **Date of Birth:** 10 August 1997  
+- 📅 **Date of Birth:** 10 October 1997  
 - 📧 **Email:** abhijithsmallya@gmail.com  
 - 📱 **Phone:** +91 9496844144  
 - 🌍 **Location:** Kerala, India  
